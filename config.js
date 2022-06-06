@@ -23,17 +23,17 @@ global.premium = ['6285876810596']
 global.packname = 'Rizki Muhammad Adam'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['#','!','.',']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '✅Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Tunggu...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
